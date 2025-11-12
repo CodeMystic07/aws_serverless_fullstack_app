@@ -1,4 +1,4 @@
-# Managing your personal tasks (both the backend API and frontend UI)
+# TaskMind
 
 There are a lot of options to choose from when it comes to building a web application. Every step of the way, from the frontend to the backend to deployment, you'll have to choose the tools and technologies. This can be overwhelming.
 
